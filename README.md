@@ -1,13 +1,15 @@
-# ios_project
-
 # Idea of the project: 
   I would like to create drawing album app
 # Small description: 
   This app will allow to create new drawings and keep them in a list. Also, the user can delete or edit them. In the process of drawing users can choose any color and size of brush 
 # My wish list:
+#
 •	Add drawings into album
+#
 •	Add sticker for notes
+#
 •	Share with drawings through social media
+#
 •	Add effects for drawings( blur, contrast, shade) 
   
 # Plan:
