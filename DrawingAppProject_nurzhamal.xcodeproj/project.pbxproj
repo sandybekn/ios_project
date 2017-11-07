@@ -14,6 +14,7 @@
 		2A3080E61FA752E900907DFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A3080E41FA752E900907DFC /* LaunchScreen.storyboard */; };
 		2A3080F11FA752E900907DFC /* DrawingAppProject_nurzhamalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3080F01FA752E900907DFC /* DrawingAppProject_nurzhamalTests.swift */; };
 		2A3080FC1FA752E900907DFC /* DrawingAppProject_nurzhamalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A3080FB1FA752E900907DFC /* DrawingAppProject_nurzhamalUITests.swift */; };
+		8B7C4E401FB0F2DC002434B7 /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B7C4E3F1FB0F2DC002434B7 /* SettingsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2A3080F71FA752E900907DFC /* DrawingAppProject_nurzhamalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawingAppProject_nurzhamalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A3080FB1FA752E900907DFC /* DrawingAppProject_nurzhamalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingAppProject_nurzhamalUITests.swift; sourceTree = "<group>"; };
 		2A3080FD1FA752E900907DFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B7C4E3F1FB0F2DC002434B7 /* SettingsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2A3080E21FA752E900907DFC /* Assets.xcassets */,
 				2A3080E41FA752E900907DFC /* LaunchScreen.storyboard */,
 				2A3080E71FA752E900907DFC /* Info.plist */,
+				8B7C4E3F1FB0F2DC002434B7 /* SettingsVC.swift */,
 			);
 			path = DrawingAppProject_nurzhamal;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				2A3080DE1FA752E800907DFC /* ViewController.swift in Sources */,
 				2A3080DC1FA752E800907DFC /* AppDelegate.swift in Sources */,
+				8B7C4E401FB0F2DC002434B7 /* SettingsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
